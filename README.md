@@ -8,7 +8,7 @@ EqualTo Sheets uses a Rust-based spreadsheet engine at its core, which can run d
 
 Licensed under either of
 
-* MIT license [LICENSE-MIT](LICENSE-MIT.md)
-* BSD license [LICENSE-BSD](LICENSE-BSD.md)
+* [MIT license](LICENSE-MIT.md)
+* [Apache license, version 2.0](LICENSE-Apache-2.0.md)
 
 at your option.
